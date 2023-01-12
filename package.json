@@ -1,13 +1,13 @@
 {
   "name": "@kris-netlogix/test-package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/kris-netlogix/test-package.git"
   },
   "author": "",
