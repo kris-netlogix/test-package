@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/kris-netlogix/test-package.git"
   },
   "author": "",
